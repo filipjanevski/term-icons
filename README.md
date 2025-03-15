@@ -1,4 +1,4 @@
-<img src="splash.png" />
+![Splash](splash.png)
 
 ### Set the terminal icon on MacOS
 
